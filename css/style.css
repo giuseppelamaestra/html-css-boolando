@@ -100,3 +100,13 @@ div.first-column-row:hover .appear2 {
     display: inline-block;
 }
 
+
+.heart {
+    position: absolute;
+    top: 2%;
+    right: 0;
+    padding: 15px;
+    background-color: white;
+    color: black;
+    
+}
