@@ -83,6 +83,20 @@ main div.first-column-row :nth-child(2) {
     display: none;
 }
 
-div:hover  {
+div.first-column-row:hover .appear {
+    display: inline-block;
 
 }
+
+
+.appear {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+div.first-column-row:hover .appear2 {
+    display: inline-block;
+}
+
